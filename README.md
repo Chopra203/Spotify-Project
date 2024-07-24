@@ -1,1 +1,1 @@
-# Spotify-Project
+Check Out the Full Dashboard here: https://public.tableau.com/views/SpotifySpotifyMetricsAnalysisCross-PlatformComparisons/Spotify?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
