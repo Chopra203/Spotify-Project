@@ -3,9 +3,7 @@
 The Tableau dashboard shows the music streaming trends and top artists for 2024, with a special focus on Spotify. I designed the layout in Figma and integrated the visualizations into Tableau for a seamless and engaging experience.
 
 **Tools Used**
-Tableau:Visualization
-Figma: Designing the Layout
-Python: For comparison analysis and statistical analysis
+Tableau, Figma, and Python
 
 **Key Highlights:**
 
